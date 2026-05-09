@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+SpeechRecognition
+Pillow
+fpdf
+av
+streamlit-webrtc
+pandas
+pyvis
